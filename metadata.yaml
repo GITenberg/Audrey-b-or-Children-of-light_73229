@@ -1,0 +1,36 @@
+_repo: Audrey-b-or-Children-of-light_73229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, O. F., Mrs.
+    aliases:
+    - Walton, Amy Catherine
+    - Deck, Amy Catherine
+    - Walton, Mrs O. F.
+    - Walton, Octavius Frank, Mrs.
+    - Walton, Mrs. O. F.
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '2468'
+    url: http://www.gutenberg.org/2009/agents/2468
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Catherine_Walton
+description: ''
+gutenberg_issued: '2024-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73229'
+language: en
+pgterms:marc905: 20240318151623walton
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children and death -- Religious aspects -- Christianity -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Audrey : $b or, Children of light'
+url: http://www.gutenberg.org/ebooks/73229
